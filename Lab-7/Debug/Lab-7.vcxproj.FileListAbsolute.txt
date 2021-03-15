@@ -1,0 +1,2 @@
+D:\Visual studio\Лабы\Lab-7\Debug\Lab-7.exe
+D:\Visual studio\Лабы\Lab-7\Debug\Lab-7.pdb
